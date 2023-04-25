@@ -1,0 +1,18 @@
+.bold{
+    font-size: medium;
+    color: #1D428A;
+    line-height: 150%;
+}
+
+.center{
+    text-align: center;
+    color: #1D428A;
+}
+
+.backgroundcoler{
+    background-color: aliceblue;
+}
+
+.fontfamily{
+    font-family: "Apple Color Emoji";
+}
